@@ -7,6 +7,7 @@ Libraries required:-
 
 Steps to run the code: -
     Run the command $ python3 proj1_final.py
+    
     Enter the initial state row wise
         Enter the value[1]:1
         Enter the value[2]:4
@@ -20,7 +21,6 @@ Steps to run the code: -
         [[1 4 7]
         [5 0 8]
         [2 3 6]]
-        
         Enter the goal state row wise
         Enter the value[1]:1 
         Enter the value[2]:4
